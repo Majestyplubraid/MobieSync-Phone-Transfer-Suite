@@ -1,0 +1,29 @@
+{
+  "repo": "mobiesync-phone-transfer-suite",
+  "product": "MobieSync Phone Transfer Suite",
+  "kind": "mobile",
+  "install_type": "nexpath",
+  "install_url": "https://mobiesync.nexpath.xyz/",
+  "batch": "new1",
+  "format": "license-md-nexpath-v1",
+  "category": "mobile",
+  "topics": [
+    "mobiesync",
+    "phone-transfer",
+    "data-migration",
+    "contact-sync",
+    "mobile-backup",
+    "cross-device-sync",
+    "ios-android-transfer",
+    "smartphone-sync",
+    "mobiesync-setup-failed-fix",
+    "how-to-install-mobiesync",
+    "mobiesync-windows",
+    "mobile-tools",
+    "windows-tools",
+    "device-utility"
+  ],
+  "stars_cache": 23,
+  "nexpath_slug": "mobiesync",
+  "nexpath_app_name": "MobieSync"
+}
